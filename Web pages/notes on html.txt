@@ -1,0 +1,74 @@
+make use of code pen to practice.it shows codes in html, css and Javascript.
+After writing your code,you need to validate the code. use (validator.w3.org) for that
+e.g of image tag(<img src="myPicture.jpg"alt="Image of Mary"/>)
+
+C:\Users\MARY\Pictures\african-food-generic.jpg
+https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Amazing-Background-Images-Nature.jpg
+
+<=&lt;
+>=&gt;
+copyright=&copy;
+blank space=&nbsp;
+c slash=&cent;
+&=&amp;
+
+use (font awesome)
+for break use <br>
+
+(types of references for hyperlinks)
+1.absolute references. takes you to a different site.
+2. relative references
+3.Images as links
+4.Embedded references: jumps to portions in the same web page you might want to take people to
+
+to insert links in your page use;
+<a href="link">type the name you want to appear instead of the link</a> 
+
+MULTIMEDIA
+for video use 
+<h1>Video</h1>
+<video src = "link" width = "400" autoplay or use controls> Your browser does not support the <code> video</code>
+</video>
+<br>
+
+<h1>Audio</h1>
+<audio src = "link"controls> 
+</audio>
+<br>
+
+TABLES
+<table> </table>- container tag
+<tr>...</tr>-the rows
+<td>...</td>-the columns
+<th>..</th>-table heading
+
+example
+
+<table>
+<tr><th>Row One</th><th>Row Two</th><th>Row Three</th></tr>
+<tr><td>One</td><td>Two</td><td>three</td></tr>
+<tr><td>Four</td><td>Five</td><td>Six</td></tr>
+<tr><td>Seven</td><td>Eight</td><td>Nine</td></tr>
+</table>
+
+OTHER TAGS YOU SHOULD KNOW.
+<hr> - puts an horizontal line accross the screen
+<address>
+<blockquote>
+<details>-this is used in conjunction with the <summary> tag
+summary of the details
+
+INLINE TAGS
+<span>, <cite>, <abbr>, <time>, <code>, <sub> subscript and <sup> superscript
+codes without action; button, progress
+
+NEXT: ACCESSIBILTY
+HOSTING YOUR SITE
+You can use 
+https//byethost.com
+make sure you remember your password because they won't remind you.
+check your span for mail on how to go about things.
+
+	cPANEL
+You will need to have the URL for your cPanel account
+find the file manager, from there search for the public_html or public folder
